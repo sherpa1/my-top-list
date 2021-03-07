@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:my_top_list/widgets/pages/HomePage.dart';
 
 class MyTopList extends StatelessWidget {
-  final String _title = "My Todo List";
+  final String _title = "My Top List";
 
   @override
   Widget build(BuildContext context) {
